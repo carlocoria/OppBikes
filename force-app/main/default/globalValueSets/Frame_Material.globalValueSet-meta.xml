@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Aluminum</fullName>
+        <default>false</default>
+        <label>Aluminum</label>
+    </customValue>
+    <customValue>
+        <fullName>Carbon Fiber</fullName>
+        <default>false</default>
+        <label>Carbon Fiber</label>
+    </customValue>
+    <customValue>
+        <fullName>Titanium</fullName>
+        <default>false</default>
+        <label>Titanium</label>
+    </customValue>
+    <customValue>
+        <fullName>Steel</fullName>
+        <default>false</default>
+        <label>Steel</label>
+    </customValue>
+    <masterLabel>Frame Material</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
