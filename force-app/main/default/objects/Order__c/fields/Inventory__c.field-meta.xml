@@ -5,7 +5,6 @@
     <externalId>false</externalId>
     <label>Inventory</label>
     <referenceTo>Inventory__c</referenceTo>
-    <relationshipLabel>Orders</relationshipLabel>
     <relationshipName>Orders</relationshipName>
     <required>false</required>
     <trackTrending>false</trackTrending>

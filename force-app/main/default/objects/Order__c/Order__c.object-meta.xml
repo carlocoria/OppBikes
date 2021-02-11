@@ -153,13 +153,13 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Order</label>
+    <label>Opp Order</label>
     <nameField>
         <displayFormat>ORD-{00000}</displayFormat>
         <label>Order Name</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Orders</pluralLabel>
+    <pluralLabel>Opp Orders</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <startsWith>Vowel</startsWith>

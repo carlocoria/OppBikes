@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0054x000003iW6KAAU",
+    "createdByName": "Carlo Coria",
+    "createdDate": "2021-02-11T00:14:45.000Z",
+    "fileName": "permissionsets/OppBikesAdmin.permissionset",
+    "fullName": "OppBikesAdmin",
+    "id": "0PS4x0000031VCmGAM",
+    "lastModifiedById": "0054x000003iW6KAAU",
+    "lastModifiedByName": "Carlo Coria",
+    "lastModifiedDate": "2021-02-11T00:16:32.000Z",
+    "manageableState": "unmanaged",
+    "type": "PermissionSet"
+  }
+}
